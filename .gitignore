@@ -1,5 +1,6 @@
 htmlcov/
 .cache/
+**/.ipynb_checkpoints/
 .*.swp
 *.pyc
 .coverage
